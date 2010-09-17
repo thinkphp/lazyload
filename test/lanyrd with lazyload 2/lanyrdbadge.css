@@ -1,0 +1,14 @@
+div#spoken,div#speaking{
+ background: #eef;
+ border: 1px solid #999;
+ padding: 5px;
+ -moz-border-radius:5px;
+ -wekbit-border-radius:5px;
+ border-radius:5px;
+ width:20em;
+ height: 300px;
+ overflow: auto;
+}
+#lanyrd a{color:#000;}
+
+div#spoken img,div#speaking img {height: 16px;vertical-align: middle;width: 16px}
