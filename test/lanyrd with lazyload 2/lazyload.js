@@ -116,7 +116,7 @@ var LazyLoad = (function(){
            webkit: 0
         };
 
-        m = nua.match(/AppleWebkit\/(\S*)/);
+        m = nua.match(/AppleWebKit\/(\S*)/);
 
         if(m && m[1]) {
              ua.webkit = pF(m[1]);
